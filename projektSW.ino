@@ -24,15 +24,12 @@ void setup() {
 }
 
 void loop() {
-    Serial.write(44);
-    delay(50);
-    if(Serial.available()){
-        int a = Serial.parseInt();
-        if(a == 44){
-            Serial.println("DUPA");
-        }
-        Serial.flush();
-    }
+//    Serial.write(44);
+//    delay(50);
+//    if(Serial.available()){
+//        int a = Serial.parseInt();
+//        Serial.write(a);
+//    }
 
 //    char c = Serial.read();
 //    data += c;
@@ -49,20 +46,11 @@ void loop() {
 //            Serial.println("DUPA RECIVED!");
 //        }
 //    }
-//BT communication
-//    if (Serial.available()) {
-//        c = Serial.read() - 48;
-//        if (c >= 0 && c < 6) {
-//            resp = analogRead(A0);
-//            Serial.print("Odczyt z portu A");
-//            Serial.print(c, DEC);
-//            Serial.print(": ");
-//            Serial.println(String(resp));
-//
-//        } else {
-//            Serial.println("Podaj numer portu analogowe od 0 do 5");
-//        }
-//    }
+BT communication
+    if (Serial.available()) {
+        c = Serial.read() - 48;
+        Serial.println(String(c));
+    }
 
 //STEROWANIE SILNIKIEM
 //    int speed = 255;
