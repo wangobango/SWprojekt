@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/projektSW_projektSW.ino.cpp
+Arduino.h
+-
+../../../../usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.h
+/home/usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.h
+string.h
+-
+Arduino.h
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/Arduino.h
+

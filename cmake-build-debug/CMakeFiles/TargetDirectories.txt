@@ -1,0 +1,7 @@
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/upload.dir
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/projektSW.dir
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/uno_CORE.dir
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/projektSW-size.dir
+/home/ramon/CLionProjects/projektSW/cmake-build-debug/CMakeFiles/projektSW-upload.dir

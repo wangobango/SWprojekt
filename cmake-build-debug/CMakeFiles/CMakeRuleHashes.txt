@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+212dfae98cb4f73f736be9c87b187ed0 CMakeFiles/projektSW-size
+353208519aa700dd5959d04fceee8ae6 CMakeFiles/projektSW-upload
+f6a1a90bbf328af45e9f9d64c7eea383 projektSW_projektSW.ino.cpp
