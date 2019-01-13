@@ -2,11 +2,11 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="projektSW" targetName="upload" />
-      <config projectName="projektSW" targetName="uno_CORE" />
-      <config projectName="projektSW" targetName="projektSW-upload" />
       <config projectName="projektSW" targetName="projektSW-size" />
       <config projectName="projektSW" targetName="projektSW" />
+      <config projectName="projektSW" targetName="uno_CORE" />
+      <config projectName="projektSW" targetName="upload" />
+      <config projectName="projektSW" targetName="projektSW-upload" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -17,6 +17,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9f372c7a-db2a-4bff-8028-01f32e410474" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/projektSW.dir/projektSW_projektSW.ino.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/projektSW.dir/projektSW_projektSW.ino.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/projektSW.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/projektSW.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/projektSW.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/projektSW.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/projektSW_projektSW.ino.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/projektSW_projektSW.ino.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projektSW.ino" beforeDir="false" afterPath="$PROJECT_DIR$/projektSW.ino" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -32,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projektSW.ino">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="170">
+              <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -42,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -56,16 +60,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/projektSW.ino" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="230" />
+    <option name="x" value="205" />
     <option name="y" value="61" />
-    <option name="width" value="1274" />
-    <option name="height" value="741" />
+    <option name="width" value="1264" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -98,6 +102,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="serialMonitor.commands" value="chuj dupa" />
     <property name="settings.editor.selected.configurable" value="settings.serialmonitor" />
   </component>
@@ -159,12 +164,12 @@
       <updated>1547296470933</updated>
       <workItem from="1547296478681" duration="918000" />
       <workItem from="1547297616102" duration="8376000" />
-      <workItem from="1547380664536" duration="1145000" />
+      <workItem from="1547380664536" duration="10421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16267000" />
+    <option name="totallyTimeSpent" value="25543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,7 +182,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="873" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25611326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -189,12 +193,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32992327" />
-      <window_info anchor="bottom" id="Serial Monitor" order="7" weight="0.32992327" />
+      <window_info active="true" anchor="bottom" id="Serial Monitor" order="7" visible="true" weight="0.32992327" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32992327" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32992327" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32992327" />
       <window_info anchor="bottom" id="CMake" order="13" weight="0.32992327" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -212,17 +216,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/projektSW.ino">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projektSW.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-start-column="39" selection-end-line="67" selection-end-column="39" />
         </state>
       </provider>
     </entry>
